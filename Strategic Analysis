@@ -1,0 +1,9 @@
+Business problem: As a small coffee chain operating across three NYC locations, it is important for ownership to thoroughly analyze sales metrics and finances. Key indicators like revenue, top items and store demand require regular examination to guide operational planning.
+
+Approach: I obtained monthly transaction records for each Kings Coffee Shop store. Data cleaning and merging consolidated the sources. Parameters such as date, location, product and payment type were extracted. Preliminary insights from pivot charts in Excel informed creation of an insightful interactive dashboard in Power BI.
+
+Results: The intuitive dashboard allows exploration of sales trends over time. Line graphs track overall and store revenues while pie charts compare top items. A map pinpoints demand hotspots. Filters accommodate customized views. Automatic formatting and labeling enhances readability.
+
+The attached screenshot exemplifies how users can derive value from the visuals. Store and date filters isolate data. Total revenue, categorized sales and hourly charts intuitively convey performance.
+
+Business impact: This ongoing analysis equips ownership with crucial intelligence. By identifying underperforming items and locations, well-informed operational, inventory and expansion decisions are supported. The customizable format also facilitates benchmarking progress.
